@@ -1,6 +1,5 @@
 - Hi, I’m @locodiablo
 - Interested in:
-  - Artistic, data-driven design 
   - Bioengineering
   - e-vehicles
 - I’m currently learning I am easily distracted, just like my teachers alw
